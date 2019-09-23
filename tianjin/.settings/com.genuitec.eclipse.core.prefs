@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/WEB-INF/springmvc-servlet.xml,WebRoot/view/votes.jsp
+validator.Unchecked=
